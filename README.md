@@ -1,2 +1,2 @@
 # TechWriting310B.github.io
-UW technical writing class => 310
+##UW technical writing class => 310
