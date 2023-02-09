@@ -4,7 +4,7 @@ This is a test ReadMe file.<br>
 Here is a simple footnote[^1].
 
 | Command | Description | Additional Notes |
-| --- | --- |
+| --- | --- | --- |
 | git status | List all new or modified files | Verifed functional |
 | git diff | Show file differences that haven't been staged | [RESOURCES](#resources) |
 
