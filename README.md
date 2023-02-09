@@ -3,6 +3,11 @@ _**UW technical writing class => 310**_
 This is a test ReadMe file.<br> 
 Here is a simple footnote[^1].
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 # Minting DAPP
 
 ## Table of Contents
