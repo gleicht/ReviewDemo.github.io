@@ -18,7 +18,7 @@ Here is a simple footnote[^1].
 - [How to Create a WordPress Staging Site](#How to Create a WordPress Staging Site  )
 - [Staging Site Setup](#Staging Site Setup)
 - [Conclusion](#Conclusion)
-- [MainVideo](#Main_Video)
+- [MainVideo](#Main-Video)
 
 ## Introduction 1
 
