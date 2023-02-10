@@ -24,7 +24,7 @@ _**UW technical writing class => 310**_
 
 $\textcolor{green}\textsf{Hello}}$Hello
 
-$$\color{blue}{### &#x1F539; Introduction }$$    
+$$\color{blue}{### Introduction}$$    
 
 
 
