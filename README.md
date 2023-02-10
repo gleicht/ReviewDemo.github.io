@@ -1,45 +1,31 @@
 # TechWriting310B.github.io
-# Wilkommen aus mein Githubswebsite
+//# Wilkommen aus mein Githubswebsite
 _**UW technical writing class => 310**_
-This is a test ReadMe file.<br> 
-Here is a simple footnote[^1].
+//This is a test ReadMe file.<br> 
+//Here is a simple footnote[^1].
 
-| Command | Description | Additional Notes |
-| --- | --- | --- |
-| git status | List all new or modified files | Verifed functional |
-| git diff | Show file differences that haven't been staged | see [RESOURCES](#resources) |
+//| Command | Description | Additional Notes |
+//| --- | --- | --- |
+//| git status | List all new or modified files | Verifed functional |
+//| git diff | Show file differences that haven't been staged | see [RESOURCES](#resources) |
 
-# Minting DAPP
+
 
 ## Table of Contents
 
-- [Introduction 1](#Introduction_1)
-- [Why Use a Staging Site](#Why Use a Staging Site)
-- [How to Create a WordPress Staging Site](#How to Create a WordPress Staging Site  )
+- [Introduction](#Introduction)
+- [Why Use a Staging Site](#Why-Use-a-Staging-Site)
+- [How to Create a WordPress Staging Site](#How-to-Create-a-WordPress-Staging-Site)
 - [Staging Site Setup](#Staging-Site-Setup)
 - [Conclusion](#Conclusion)
-- [Main Video](#Main-Video)
-- [BACKEND COMMANDS](#backend-commands)
+//- [Main Video](#Main-Video)
+//- [BACKEND COMMANDS](#backend-commands)
 
-## Introduction 1
+## Introduction 
 
-### MainVideo
 
-🌟 [EASY Minting dApp | Whitelisting | Entire Process!! Create an Entire NFT Collection (10,000+)](https://youtu.be/cLB7u0KQFIs)
 
-### Update Video adding Ethereum support!
-
-🚀 [How To Deploy a Smart Contract to Ethereum!! (Updated Minting dApp)](https://youtu.be/-EB2TTQxSWc)
-
-Base art generator code is from [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
-
-Contract uses [NFTPort](https://nftport.xyz)
-
-Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
-
-## backend commands
-
-## Why_Use_a_Staging_Site 
+## Why Use a Staging Site 
 
 ## How to Create a WordPress Staging Site  
 
@@ -163,3 +149,20 @@ $ npm run refresh_os --start=1 --end=100
 
 
 ## Reference the [main video](https://youtu.be/cLB7u0KQFIs) and [update video](https://youtu.be/-EB2TTQxSWc) for more details.
+# Minting DAPP
+
+### MainVideo
+
+🌟 [EASY Minting dApp | Whitelisting | Entire Process!! Create an Entire NFT Collection (10,000+)](https://youtu.be/cLB7u0KQFIs)
+
+### Update Video adding Ethereum support!
+
+🚀 [How To Deploy a Smart Contract to Ethereum!! (Updated Minting dApp)](https://youtu.be/-EB2TTQxSWc)
+
+Base art generator code is from [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
+
+Contract uses [NFTPort](https://nftport.xyz)
+
+Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
+
+## backend commands
