@@ -9,7 +9,7 @@ _**UW technical writing class => 310**_
 <!--//| git status | List all new or modified files | Verifed functional |-->
 <!--//| git diff | Show file differences that haven't been staged | see [RESOURCES](#resources) |-->
 
-# Staging Environments: How to deploy a Wordpress staging site using Softaculous
+# Staging Environments: How to Deploy a Wordpress staging Site Using Softaculous
 
 ## Table of Contents
 
@@ -18,8 +18,7 @@ _**UW technical writing class => 310**_
 - [How to Create a WordPress Staging Site](#How-to-Create-a-WordPress-Staging-Site)
 - [Staging Site Setup](#Staging-Site-Setup)
 - [Conclusion](#Conclusion)
-<!--//- [Main Video](#Main-Video)-->
-<!--//- [BACKEND COMMANDS](#backend-commands)-->
+
 
 ## Introduction 
 
@@ -29,19 +28,23 @@ _**UW technical writing class => 310**_
 
 ## How to Create a WordPress Staging Site  
 
-- Clone this repo or download the latest release zip file.
-- Unzip, if needed, and open the folder in VS Code.
-- From the terminal run: 
-```
- cd backend
- npm install
-```
-- Copy your image layers into the `/backend/layers` folder.
-- Use the `/backend/src/config.js` file to set up your layers and NFT information.
 
 ## Staging Site Setup
 
-Generate: 
+## Conclusion
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Generate: 
 ```
 $ npm run generate
 ```
@@ -166,3 +169,13 @@ Contract uses [NFTPort](https://nftport.xyz)
 Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
 
 ## backend commands
+
+- Clone this repo or download the latest release zip file.
+- Unzip, if needed, and open the folder in VS Code.
+- From the terminal run: 
+```
+ cd backend
+ npm install
+```
+- Copy your image layers into the `/backend/layers` folder.
+- Use the `/backend/src/config.js` file to set up your layers and NFT information.
