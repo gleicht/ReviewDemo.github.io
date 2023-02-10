@@ -35,7 +35,7 @@ Contract uses [NFTPort](https://nftport.xyz)
 
 Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
 
-## Why Use a Staging Site 
+## Why_Use_a_Staging_Site 
 
 ## How to Create a WordPress Staging Site  
 
