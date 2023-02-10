@@ -43,9 +43,12 @@ To set up your staging website, perform the following steps:
 
 ![1_CP_PANEL](https://user-images.githubusercontent.com/6706790/218218227-de2fbd72-631c-4583-9b71-db18d5909e9a.PNG)
 
-5.	Provide the information requested. When all information has been provided, click Create Staging.   
-6.	When the installation process is complete, you will be prompted for your log on credentials.
-7.	Start building your site.
+5.	Provide the information requested. When all information has been provided, click Create Staging. 
+![2_CP_PANEL](https://user-images.githubusercontent.com/6706790/218218305-f6d8efc6-0bb1-4d11-8a3d-b8b28e8efefb.PNG)
+
+ 
+7.	When the installation process is complete, you will be prompted for your log on credentials.
+8.	Start building your site.
 
 For a video tutorial of how to create a staging website using Softaculous, see *https://www.youtube.com/embed/Ep1hxR9vyTQ//*.
 
