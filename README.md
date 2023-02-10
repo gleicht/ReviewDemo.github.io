@@ -1,13 +1,13 @@
 # TechWriting310B.github.io
-//# Wilkommen aus mein Githubswebsite
+<!--# Wilkommen aus mein Githubswebsite
 _**UW technical writing class => 310**_
-//This is a test ReadMe file.<br> 
-//Here is a simple footnote[^1].
+<!--//This is a test ReadMe file.<br> 
+<!--//Here is a simple footnote[^1].
 
-//| Command | Description | Additional Notes |
-//| --- | --- | --- |
-//| git status | List all new or modified files | Verifed functional |
-//| git diff | Show file differences that haven't been staged | see [RESOURCES](#resources) |
+<!--//| Command | Description | Additional Notes |
+<!--//| --- | --- | --- |
+<!--//| git status | List all new or modified files | Verifed functional |
+<!--//| git diff | Show file differences that haven't been staged | see [RESOURCES](#resources) |
 
 
 
