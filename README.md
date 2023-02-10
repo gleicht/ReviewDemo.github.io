@@ -7,7 +7,7 @@ _**UW technical writing class => 310**_
 <!--//| Command | Description | Additional Notes |
 <!--//| --- | --- | --- |
 <!--//| git status | List all new or modified files | Verifed functional |
-<!--//| git diff | Show file differences that haven't been staged | see [RESOURCES](#resources) |->
+<!--//| git diff | Show file differences that haven't been staged | see [RESOURCES](#resources) |-->
 
 
 
