@@ -19,6 +19,7 @@ Here is a simple footnote[^1].
 - [Staging Site Setup](#Staging Site Setup)
 - [Conclusion](#Conclusion)
 - [Main Video](#Main-Video)
+- [BACKEND COMMANDS](#backend-commands)
 
 ## Introduction 1
 
@@ -35,6 +36,8 @@ Base art generator code is from [hashlips_art_engine](https://github.com/HashLip
 Contract uses [NFTPort](https://nftport.xyz)
 
 Join the Discord server for more help from the community: [codeSTACKr Discord](https://discord.gg/A9CnsVzzkZ)
+
+## backend commands
 
 ## Why_Use_a_Staging_Site 
 
