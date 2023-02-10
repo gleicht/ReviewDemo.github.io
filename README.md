@@ -9,9 +9,9 @@ _**UW technical writing class => 310**_
 <!--//| git status | List all new or modified files | Verifed functional |-->
 <!--//| git diff | Show file differences that haven't been staged | see [RESOURCES](#resources) |-->
 
-# Staging Environments: How to Deploy a Wordpress staging Site Using Softaculous
+## Staging Environments: How to Deploy a Wordpress Staging Site Using Softaculous
 
-## Table of Contents
+### Table of Contents
 
 - [Introduction](#Introduction)
 - [Why Use a Staging Site](#Why-Use-a-Staging-Site)
@@ -20,18 +20,18 @@ _**UW technical writing class => 310**_
 - [Conclusion](#Conclusion)
 
 
-## Introduction 
+### Introduction 
 
 
 
-## Why Use a Staging Site 
+### Why Use a Staging Site 
 
-## How to Create a WordPress Staging Site  
+### How to Create a WordPress Staging Site  
 
 
-## Staging Site Setup
+### Staging Site Setup
 
-## Conclusion
+### Conclusion
 
 
 
