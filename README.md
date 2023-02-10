@@ -4,12 +4,12 @@ _**UW technical writing class => 310**_
 <!--//This is a test ReadMe file.<br> 
 <!--//Here is a simple footnote[^1].
 
-<!--//| Command | Description | Additional Notes |
-<!--//| --- | --- | --- |
-<!--//| git status | List all new or modified files | Verifed functional |
+<!--//| Command | Description | Additional Notes |-->
+<!--//| --- | --- | --- |-->
+<!--//| git status | List all new or modified files | Verifed functional |-->
 <!--//| git diff | Show file differences that haven't been staged | see [RESOURCES](#resources) |-->
 
-
+# Staging Environments: How to deploy a Wordpress staging site using Softaculous
 
 ## Table of Contents
 
@@ -18,8 +18,8 @@ _**UW technical writing class => 310**_
 - [How to Create a WordPress Staging Site](#How-to-Create-a-WordPress-Staging-Site)
 - [Staging Site Setup](#Staging-Site-Setup)
 - [Conclusion](#Conclusion)
-//- [Main Video](#Main-Video)
-//- [BACKEND COMMANDS](#backend-commands)
+<!--//- [Main Video](#Main-Video)-->
+<!--//- [BACKEND COMMANDS](#backend-commands)-->
 
 ## Introduction 
 
