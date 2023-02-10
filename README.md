@@ -18,11 +18,11 @@ Here is a simple footnote[^1].
 - [How to Create a WordPress Staging Site](#How to Create a WordPress Staging Site  )
 - [Staging Site Setup](#Staging Site Setup)
 - [Conclusion](#Conclusion)
-- [Main_Video](#Main Video)
+- [Main Video](#MainVideo)
 
 ## Introduction 1
 
-### Main Video
+### MainVideo
 
 🌟 [EASY Minting dApp | Whitelisting | Entire Process!! Create an Entire NFT Collection (10,000+)](https://youtu.be/cLB7u0KQFIs)
 
