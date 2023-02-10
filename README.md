@@ -37,7 +37,7 @@ Join the Discord server for more help from the community: [codeSTACKr Discord](h
 
 ## Why Use a Staging Site 
 
-### How to Create a WordPress Staging Site  
+## How to Create a WordPress Staging Site  
 
 - Clone this repo or download the latest release zip file.
 - Unzip, if needed, and open the folder in VS Code.
@@ -49,7 +49,7 @@ Join the Discord server for more help from the community: [codeSTACKr Discord](h
 - Copy your image layers into the `/backend/layers` folder.
 - Use the `/backend/src/config.js` file to set up your layers and NFT information.
 
-### Staging Site Setup
+## Staging Site Setup
 
 Generate: 
 ```
@@ -151,7 +151,7 @@ $ npm run refresh_os --start=1 --end=100
 - Refreshes the listing for the specified editions on OpenSea.
 - Both the `--start` and `--end` flags are required.
 
-### Conclusion
+## Conclusion
 
 - Update the `frontend/js/abi.js` file with the ABI from `backend/build/contract/_contract_abi.json`.
 - Update your information in the `frontend/js/constants.js` file.
