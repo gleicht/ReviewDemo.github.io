@@ -1,13 +1,7 @@
 # TechWriting310B.github.io
-<!--# Wilkommen aus mein Githubswebsite
-_**UW technical writing class => 310**_
-<!--//This is a test ReadMe file.<br> 
-<!--//Here is a simple footnote[^1].
 
-<!--//| Command | Description | Additional Notes |-->
-<!--//| --- | --- | --- |-->
-<!--//| git status | List all new or modified files | Verifed functional |-->
-<!--//| git diff | Show file differences that haven't been staged | see [RESOURCES](#resources) |-->
+_**UW technical writing class => 310**_
+
 
 ## Staging Environments: How to Deploy a Wordpress Staging Site Using Softaculous
 
@@ -27,23 +21,16 @@ A major benefit of using a staging site is that they are private and allow you t
 
 To keep things running smoothly for your website visitors, it pays to use a staging environment. This process allows you to review newly added features thoroughly before making them live so that site users are never exposed to broken or malfunctioning components when updates are rolled out. Additionally, reported errors can be tested and fixed in the staging environment prior to deploying fixes to the production site.
 
-[Top of Page](#Table-of-Contents)
-
-  ![video](https://user-images.githubusercontent.com/6706790/218014314-d58274fb-b127-4bcb-b1dc-f83c005b6d46.PNG)
-
-
-
-
+[Return to Top of Page](#Table-of-Contents)
 
 ### &#x1F539;Why Use a Staging Site 
 A staging environment or staging website is useful in ensuring that your website is operating as intended. It serves as an environment for development and testing prior to public deployment. Using a staging website so you can test out new features without worrying about shutting down or damaging your live website. Not only do they protect against any potential disasters from taking place, but using a staging environment is invaluable in saving both precious hours and energy in website development over the long run.
-
-[Top of Page](#Table-of-Contents)
+[Return to Top of Page](#Table-of-Contents)
 
 ### &#x1F539;How to Create a WordPress Staging Site  
 For this tutorial, Softaculous is recommended a website builder. While other methods of site construction will also work, the Softaculous auto-installer makes the installation process simple and quick. Depending on your hosting provider, Softaculous may or may not be an option. In cases where your hosting provider does not offer Softaculous, an alternative site auto-installer with similar functionality as Softaculous is usually provided. 
 
-[Top of Page](#Table-of-Contents)
+[Return to Top of Page](#Table-of-Contents)
 
 ### &#x1F539;Staging Site Setup
 Staging Site Setup
@@ -55,15 +42,17 @@ To set up your staging website, perform the following steps:
 5.	 When the installation process is complete, you will be prompted for your log on credentials.
 6.	Start building your site.
 
-[Top of Page](#Table-of-Contents)
+For a video tutorial of how to create a staging website using Softaculous, see <iframe width="560" height="315" src="https://www.youtube.com/embed/Ep1hxR9vyTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[Return to Top of Page](#Table-of-Contents)
 
 ### &#x1F539;Conclusion
 Using the above process, you can easily set up a staging environment where you can build your website. When you are finished developing your website, click the publish button to publish the staging website to the location of your choice.
 
-[Top of Page](#Table-of-Contents)
+[Return to Top of Page](#Table-of-Contents)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ep1hxR9vyTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 
