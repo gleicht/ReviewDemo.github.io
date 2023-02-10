@@ -39,16 +39,13 @@ To set up your staging website, perform the following steps:
 
 1.	Create a subdomain off the main domain or create an add-on domain in your hosting account. Please be aware that an add-on domain will require registering an addition domain either with the hosting company or with one of the many domain registration services. Either option will work fine as a staging environment. 
 2.	Log into cPanel or your site web hosting control panel and navigate to the Softaculous application installer. If your hosting company does not use cPanel or the Softaculous application, then log into the website management solution your hosting company provides and navigate to the Wordpress installer provided. 
-3.	Click on the All Installations icon on the Softaculous install screen. 
-
 ![1_CP_PANEL](https://user-images.githubusercontent.com/6706790/218218227-de2fbd72-631c-4583-9b71-db18d5909e9a.PNG)
-
-5.	Provide the information requested. When all information has been provided, click Create Staging. 
-![2_CP_PANEL](https://user-images.githubusercontent.com/6706790/218218305-f6d8efc6-0bb1-4d11-8a3d-b8b28e8efefb.PNG)
-
- 
-7.	When the installation process is complete, you will be prompted for your log on credentials.
-8.	Start building your site.
+3.	Click on the All Installations icon on the Softaculous install screen. 
+![2_CP_PANEL](https://user-images.githubusercontent.com/6706790/218218526-68af519e-2956-46b0-8b45-2e459bd59adc.PNG)
+4.	Provide the information requested. When all information has been provided, click Create Staging. 
+![3_CP_PANEL](https://user-images.githubusercontent.com/6706790/218218458-c2ef1d9a-23ca-4ea3-92c3-c0031d9ea341.PNG)
+5.	When the installation process is complete, you will be prompted for your log on credentials.
+6.	Start building your site.
 
 For a video tutorial of how to create a staging website using Softaculous, see *https://www.youtube.com/embed/Ep1hxR9vyTQ//*.
 
