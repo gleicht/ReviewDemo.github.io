@@ -37,8 +37,12 @@ To keep things running smoothly for your website visitors, it pays to use a stag
 ### &#x1F539;Why Use a Staging Site 
 A staging environment or staging website is useful in ensuring that your website is operating as intended. It serves as an environment for development and testing prior to public deployment. Using a staging website so you can test out new features without worrying about shutting down or damaging your live website. Not only do they protect against any potential disasters from taking place, but using a staging environment is invaluable in saving both precious hours and energy in website development over the long run.
 
+[Back](#Introduction)
+
 ### &#x1F539;How to Create a WordPress Staging Site  
 For this tutorial, Softaculous is recommended a website builder. While other methods of site construction will also work, the Softaculous auto-installer makes the installation process simple and quick. Depending on your hosting provider, Softaculous may or may not be an option. In cases where your hosting provider does not offer Softaculous, an alternative site auto-installer with similar functionality as Softaculous is usually provided. 
+
+[Back](#Introduction)
 
 ### &#x1F539;Staging Site Setup
 Staging Site Setup
@@ -50,8 +54,12 @@ To set up your staging website, perform the following steps:
 5.	 When the installation process is complete, you will be prompted for your log on credentials.
 6.	Start building your site.
 
+[Back](#Introduction)
+
 ### &#x1F539;Conclusion
 Using the above process, you can easily set up a staging environment where you can build your website. When you are finished developing your website, click the publish button to publish the staging website to the location of your choice.
+
+[Top of Page](#Introduction)
 
 
 
