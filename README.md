@@ -13,7 +13,7 @@ _**UW technical writing class => 310**_
 
 ### Table of Contents
 
-- [Introduction](#Introduction)
+- [Introduction(&#x1F499;)](#Introduction)
 - [Why Use a Staging Site](#Why-Use-a-Staging-Site)
 - [How to Create a WordPress Staging Site](#How-to-Create-a-WordPress-Staging-Site)
 - [Staging Site Setup](#Staging-Site-Setup)
