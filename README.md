@@ -13,13 +13,13 @@ Here is a simple footnote[^1].
 
 ## Table of Contents
 
-- [Introduction](#Introduction)
+- [Introduction 1](#Introduction 1)
 - [WhyUseaStagingSite](#Why Use a Staging Site)
 - [How to Create a WordPress Staging Site](#How to Create a WordPress Staging Site  )
 - [Staging Site Setup](#Staging Site Setup)
 - [Conclusion](#Conclusion)
 
-## Introduction
+## Introduction 1
 
 ### Main Video
 
