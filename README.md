@@ -13,13 +13,13 @@ Here is a simple footnote[^1].
 
 ## Table of Contents
 
-- [RESOURCES](#resources)
+- [Introduction](#Introduction)
 - [INSTALLATION](#installation)
   - [BACKEND](#backend)
   - [BACKEND COMMANDS](#backend-commands)
   - [FRONTEND](#frontend)
 
-## RESOURCES
+## Introduction
 
 ### Main Video
 
