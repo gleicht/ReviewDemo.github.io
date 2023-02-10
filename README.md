@@ -27,7 +27,7 @@ A major benefit of using a staging site is that they are private and allow you t
 
 To keep things running smoothly for your website visitors, it pays to use a staging environment. This process allows you to review newly added features thoroughly before making them live so that site users are never exposed to broken or malfunctioning components when updates are rolled out. Additionally, reported errors can be tested and fixed in the staging environment prior to deploying fixes to the production site.
 
-[Back](#Introduction)
+[Back](#Table of Contents)
 
   
 
@@ -59,7 +59,7 @@ To set up your staging website, perform the following steps:
 ### &#x1F539;Conclusion
 Using the above process, you can easily set up a staging environment where you can build your website. When you are finished developing your website, click the publish button to publish the staging website to the location of your choice.
 
-[Top of Page](#Introduction)
+[Top of Page](#Table of Contents)
 
 
 
