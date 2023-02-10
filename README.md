@@ -42,7 +42,7 @@ To set up your staging website, perform the following steps:
 5.	 When the installation process is complete, you will be prompted for your log on credentials.
 6.	Start building your site.
 
-For a video tutorial of how to create a staging website using Softaculous, see <iframe width="560" height="315" src="https://www.youtube.com/embed/Ep1hxR9vyTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+For a video tutorial of how to create a staging website using Softaculous, see https://www.youtube.com/embed/Ep1hxR9vyTQ.
 
 [Return to Top of Page](#Table-of-Contents)
 
