@@ -16,7 +16,7 @@ Here is a simple footnote[^1].
 - [Introduction 1](#Introduction_1)
 - [Why Use a Staging Site](#Why Use a Staging Site)
 - [How to Create a WordPress Staging Site](#How to Create a WordPress Staging Site  )
-- [Staging Site Setup](#Staging Site Setup)
+- [Staging Site Setup](#Staging-Site-Setup)
 - [Conclusion](#Conclusion)
 - [Main Video](#Main-Video)
 - [BACKEND COMMANDS](#backend-commands)
