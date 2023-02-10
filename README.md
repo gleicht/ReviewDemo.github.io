@@ -13,25 +13,25 @@ _**UW technical writing class => 310**_
 
 ### Table of Contents
 
-- [&#x1F535;Introduction](#Introduction)
-- [(&#x1F535;)Why Use a Staging Site](#Why-Use-a-Staging-Site)
-- [(&#x1F535;)How to Create a WordPress Staging Site](#How-to-Create-a-WordPress-Staging-Site)
-- [(&#x1F535;)Staging Site Setup](#Staging-Site-Setup)
-- [(&#x1F535;)Conclusion](#Conclusion)
+- [Introduction](#Introduction)
+- [Why Use a Staging Site](#Why-Use-a-Staging-Site)
+- [How to Create a WordPress Staging Site](#How-to-Create-a-WordPress-Staging-Site)
+- [Staging Site Setup](#Staging-Site-Setup)
+- [Conclusion](#Conclusion)
 
 
-### &#x1F535; Introduction 
+### &#x1F539; Introduction 
 
 
 
-### Why Use a Staging Site 
+### &#x1F539;Why Use a Staging Site 
 
-### How to Create a WordPress Staging Site  
+### &#x1F539;How to Create a WordPress Staging Site  
 
 
-### Staging Site Setup
+### &#x1F539;Staging Site Setup
 
-### Conclusion
+### &#x1F539;Conclusion
 
 
 
