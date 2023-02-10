@@ -25,7 +25,9 @@ A staging site serves as a development environment for deploying code changes, u
 
 A major benefit of using a staging site is that they are private and allow you to introduce changes to your site prior to publishing to the live site. A staging site acts as a private workshop for content creators and coders to perfect their work prior to releasing it publicly. alterations made in the private environment can be perfected prior to rollout to the public site. 
 
-To keep things running smoothly for your website visitors, it pays to use a staging environment. This process allows you to review newly added features thoroughly before making them live so that site users are never exposed to broken or malfunctioning components when updates are rolled out. Additionally, reported errors can be tested and fixed in the staging environment prior to deploying fixes to the production site.  
+To keep things running smoothly for your website visitors, it pays to use a staging environment. This process allows you to review newly added features thoroughly before making them live so that site users are never exposed to broken or malfunctioning components when updates are rolled out. Additionally, reported errors can be tested and fixed in the staging environment prior to deploying fixes to the production site.
+
+[Introduction](#Back)
 
   
 
