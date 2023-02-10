@@ -59,7 +59,7 @@ To set up your staging website, perform the following steps:
 ### &#x1F539;Conclusion
 Using the above process, you can easily set up a staging environment where you can build your website. When you are finished developing your website, click the publish button to publish the staging website to the location of your choice.
 
-[Top of Page](#Table-of-Contents)
+[Top of Page](#TechWriting310B.github.io)
 
 
 
