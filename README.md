@@ -1,6 +1,6 @@
 # ReviewDemo.github.io
 
-_**UW technical writing class => 310**_
+_**DemoSite for Reviews**_
 
 
 ## Staging Environments: How to Deploy a Wordpress Staging Site Using Softaculous
