@@ -1,4 +1,4 @@
-# TechWriting310B.github.io
+# ReviewDemo.github.io
 
 _**UW technical writing class => 310**_
 
